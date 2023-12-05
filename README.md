@@ -11,7 +11,7 @@ BACKEND
 
 FRONTEND
 <br>
-<img src="https://img.shields.io/badge/html-E34F26?style=flat-square&amp;logo=html&amp;logoColor=white" alt="html Badge">
+<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="html Badge">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=white" alt="js Badge">
 <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&amp;logo=jquery&amp;logoColor=white" alt="jquery Badge">
 <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat-square&amp;logo=thymeleaf&amp;logoColor=white" alt="thymeleaf Badge">
