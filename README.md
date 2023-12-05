@@ -7,7 +7,7 @@ BACKEND
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&amp;logo=oracle&amp;logoColor=white" alt="Oracle Badge">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="mysql Badge">
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=white" alt="linux Badge">
-<img src="https://img.shields.io/badge/Tibero-FCC624?style=flat-square&amp;logo=Tibero&amp;logoColor=white" alt="Tibero Badge">
+<img src="https://img.shields.io/badge/Tibero-1E8CBE?style=flat-square&amp;logo=Tibero&amp;logoColor=white" alt="Tibero Badge">
 
 FRONTEND
 <br>
@@ -15,6 +15,7 @@ FRONTEND
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=white" alt="js Badge">
 <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&amp;logo=jquery&amp;logoColor=white" alt="jquery Badge">
 <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat-square&amp;logo=thymeleaf&amp;logoColor=white" alt="thymeleaf Badge">
+<img src="https://img.shields.io/badge/jsp-4B4B77?style=flat-square&amp;logo=jsp&amp;logoColor=white" alt="Tibero Badge">
 
 🌱 learning
 <br>
