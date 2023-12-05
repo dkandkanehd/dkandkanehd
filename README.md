@@ -1,10 +1,14 @@
 ### Hi there 👋
 
 Skill
-🔭 BackEnd
+⚡ BackEnd
 - Java, Spring
 
 ⚡ FrontEnd
 - HTML, JS, Thymeleaf, JSP(JSTL)
 
-🌱 learning : react, css, nextJs
+⚡ DB
+- Oracle, Tibero, mysql
+
+🌱 learning
+- react, css, nextJs
