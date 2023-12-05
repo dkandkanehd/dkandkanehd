@@ -1,4 +1,4 @@
-     
+<div style="align-content: center;">
 BACKEND
 <br>
 <img src="https://img.shields.io/badge/Java-e75253?style=flat-square&amp;logo=Java&amp;logoColor=white" alt="Java Badge">
@@ -8,7 +8,7 @@ BACKEND
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="mysql Badge">
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=white" alt="linux Badge">
 <img src="https://img.shields.io/badge/Tibero-1E8CBE?style=flat-square&amp;logo=Tibero&amp;logoColor=white" alt="Tibero Badge">
-
+</div>
 FRONTEND
 <br>
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="html Badge">
