@@ -7,7 +7,7 @@ BACKEND
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&amp;logo=oracle&amp;logoColor=white" alt="Oracle Badge">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="mysql Badge">
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=white" alt="linux Badge">
-+Tibero
+<img src="https://img.shields.io/badge/Tibero-FCC624?style=flat-square&amp;logo=Tibero&amp;logoColor=white" alt="Tibero Badge">
 
 FRONTEND
 <br>
