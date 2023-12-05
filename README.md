@@ -19,6 +19,6 @@ FRONTEND
 🌱 learning
 <br>
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=white" alt="react Badge">
-<img src="https://img.shields.io/badge/css-1572B6?style=flat-square&amp;logo=css&amp;logoColor=white" alt="css Badge">
+<img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="css Badge">
 <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&amp;logo=nextjs&amp;logoColor=white" alt="nextjs Badge">
 
