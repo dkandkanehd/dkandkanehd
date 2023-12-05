@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ⚡ BackEnd
 - Java, Spring
