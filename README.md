@@ -11,14 +11,14 @@ BACKEND
 
 FRONTEND
 <br>
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white">
+<img src="https://img.shields.io/badge/html-E34F26?style=flat-square&amp;logo=html&amp;logoColor=white" alt="html Badge">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=white" alt="js Badge">
+<img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&amp;logo=jquery&amp;logoColor=white" alt="jquery Badge">
+<img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat-square&amp;logo=thymeleaf&amp;logoColor=white" alt="thymeleaf Badge">
 
 🌱 learning
 <br>
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=white" alt="react Badge">
+<img src="https://img.shields.io/badge/css-1572B6?style=flat-square&amp;logo=css&amp;logoColor=white" alt="css Badge">
+<img src="https://img.shields.io/badge/next.js-000000?style=flat-square&amp;logo=nextjs&amp;logoColor=white" alt="nextjs Badge">
 
