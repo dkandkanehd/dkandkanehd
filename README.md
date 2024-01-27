@@ -4,6 +4,7 @@ BACKEND
 <img src="https://img.shields.io/badge/Spring-6D8B33F?style=flat-square&amp;logo=Spring&amp;logoColor=white" alt="Spring Badge">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&amp;logo=Springboot&amp;logoColor=white" alt="Springboot Badge">
 <img src="https://img.shields.io/badge/Jpa-6DB33F?style=flat-square&amp;logo=Jpa&amp;logoColor=white" alt="Jpa Badge">
+<img src="https://img.shields.io/badge/QuertDSL-1572B6?style=flat-square&amp;logo=QuertDSL&amp;logoColor=white" alt="QuertDSL Badge">
 
 FRONTEND
 <br>
