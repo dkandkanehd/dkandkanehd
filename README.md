@@ -3,7 +3,6 @@ BACKEND
 <img src="https://img.shields.io/badge/Java-e75253?style=flat-square&amp;logo=Java&amp;logoColor=white" alt="Java Badge">
 <img src="https://img.shields.io/badge/Spring-6D8B33F?style=flat-square&amp;logo=Spring&amp;logoColor=white" alt="Spring Badge">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&amp;logo=Springboot&amp;logoColor=white" alt="Springboot Badge">
-<img src="https://img.shields.io/badge/Tibero-1E8CBE?style=flat-square&amp;logo=Tibero&amp;logoColor=white" alt="Tibero Badge">
 <img src="https://img.shields.io/badge/Jpa-6DB33F?style=flat-square&amp;logo=Jpa&amp;logoColor=white" alt="Jpa Badge">
 
 FRONTEND
@@ -18,6 +17,8 @@ DB
 <br>
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&amp;logo=oracle&amp;logoColor=white" alt="Oracle Badge">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="mysql Badge">
+<img src="https://img.shields.io/badge/mariadb-003545?style=flat-square&amp;logo=mariadb&amp;logoColor=white" alt="mariadb Badge">
+<img src="https://img.shields.io/badge/Tibero-1E8CBE?style=flat-square&amp;logo=Tibero&amp;logoColor=white" alt="Tibero Badge">
 
 🌱 learning
 <br>
