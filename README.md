@@ -7,6 +7,7 @@ BACKEND
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="mysql Badge">
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=white" alt="linux Badge">
 <img src="https://img.shields.io/badge/Tibero-1E8CBE?style=flat-square&amp;logo=Tibero&amp;logoColor=white" alt="Tibero Badge">
+<img src="https://img.shields.io/badge/Jpa-6D8B33F?style=flat-square&amp;logo=Jpa&amp;logoColor=white" alt="Jpa Badge">
 
 FRONTEND
 <br>
