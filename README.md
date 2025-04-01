@@ -36,6 +36,12 @@ COOPERATION TOOL
 <img src="https://img.shields.io/badge/jira-0052CC?style=flat-square&amp;logo=jira&logoColor=white">
 <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&amp;logo=slack&logoColor=white">
 
+PROTOCOL & MESSAGING
+<br>
+<img src="https://img.shields.io/badge/apachekafka-231F20?style=flat-square&amp;logo=apachekafka&logoColor=white">
+<img src="https://img.shields.io/badge/GRPC-000000?style=flat-square&amp;logo=GRPC&logoColor=white">
+
+
 🌱 learning
 <br>
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=white" alt="react Badge">
