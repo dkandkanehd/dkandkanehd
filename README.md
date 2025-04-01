@@ -40,6 +40,7 @@ PROTOCOL & MESSAGING
 <br>
 <img src="https://img.shields.io/badge/apachekafka-231F20?style=flat-square&amp;logo=apachekafka&logoColor=white">
 <img src="https://img.shields.io/badge/GRPC-000000?style=flat-square&amp;logo=GRPC&logoColor=white">
+<img src="https://img.shields.io/badge/REST-3F79AD?style=flat-square&amp;logo=REST&logoColor=white">
 
 
 🌱 learning
