@@ -26,6 +26,7 @@ DB
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="mysql Badge">
 <img src="https://img.shields.io/badge/mariadb-003545?style=flat-square&amp;logo=mariadb&amp;logoColor=white" alt="mariadb Badge">
 <img src="https://img.shields.io/badge/Tibero-1E8CBE?style=flat-square&amp;logo=Tibero&amp;logoColor=white" alt="Tibero Badge">
+<img src="https://img.shields.io/badge/sqlite-003B57?style=flat-square&amp;logo=sqlite&amp;logoColor=white" alt="sqlite Badge">
 
 SERVER & DEPLOY & VERSION
 <br>
