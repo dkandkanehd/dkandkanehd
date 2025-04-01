@@ -33,4 +33,5 @@ SERVER
 <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="nextjs Badge">
 <img src="https://img.shields.io/badge/nestjs-E0234E?style=flat-square&amp;logo=nestjs&amp;logoColor=white" alt="nestjs Badge">
 <img src="https://img.shields.io/badge/node.js-5FA04E?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="nodejs Badge">
+<img src="https://img.shields.io/badge/express-000000?style=flat-square&amp;logo=express&logoColor=white">
 
