@@ -28,9 +28,13 @@ SERVER & DEPLOY & VERSION
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&amp;logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&amp;logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/gradle-02303A?style=flat-square&amp;logo=gradle&logoColor=white">
+<img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&amp;logo=jenkins&logoColor=white">
+<img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&amp;logo=docker&logoColor=white">
 
 COOPERATION TOOL
+<br>
 <img src="https://img.shields.io/badge/jira-0052CC?style=flat-square&amp;logo=jira&logoColor=white">
+<img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&amp;logo=slack&logoColor=white">
 
 🌱 learning
 <br>
