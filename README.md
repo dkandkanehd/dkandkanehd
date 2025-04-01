@@ -26,6 +26,8 @@ SERVER
 <br>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&amp;logo=amazon aws&amp;logoColor=white" alt="aws Badge">
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&amp;logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/git-F05032?style=flat-square&amp;logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/gradle-02303A?style=flat-square&amp;logo=gradle&logoColor=white">
 
 🌱 learning
 <br>
