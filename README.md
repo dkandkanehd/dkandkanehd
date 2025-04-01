@@ -24,7 +24,7 @@ DB
 
 SERVER
 <br>
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white" alt="aws Badge"> 
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&amp;logo=amazon aws&amp;logoColor=white" alt="aws Badge"> 
 
 🌱 learning
 <br>
