@@ -27,5 +27,5 @@ DB
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=white" alt="react Badge">
 <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="css Badge">
 <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="nextjs Badge">
-<img src="https://img.shields.io/badge/nest.js-000002?style=flat-square&amp;logo=nestdotjs&amp;logoColor=white" alt="nestjs Badge">
+<img src="https://img.shields.io/badge/nest.js-E0234E?style=flat-square&amp;logo=nestdotjs&amp;logoColor=white" alt="nestjs Badge">
 
