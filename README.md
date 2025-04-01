@@ -18,6 +18,7 @@ FRONTEND
 <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&amp;logo=jquery&amp;logoColor=white" alt="jquery Badge">
 <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat-square&amp;logo=thymeleaf&amp;logoColor=white" alt="thymeleaf Badge">
 <img src="https://img.shields.io/badge/jsp-4B4B77?style=flat-square&amp;logo=jsp&amp;logoColor=white" alt="Tibero Badge">
+<img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="typescript Badge">
 
 DB
 <br>
