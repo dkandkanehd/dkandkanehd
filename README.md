@@ -22,12 +22,15 @@ DB
 <img src="https://img.shields.io/badge/mariadb-003545?style=flat-square&amp;logo=mariadb&amp;logoColor=white" alt="mariadb Badge">
 <img src="https://img.shields.io/badge/Tibero-1E8CBE?style=flat-square&amp;logo=Tibero&amp;logoColor=white" alt="Tibero Badge">
 
-SERVER
+SERVER & DEPLOY & VERSION
 <br>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&amp;logo=amazon aws&amp;logoColor=white" alt="aws Badge">
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&amp;logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&amp;logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/gradle-02303A?style=flat-square&amp;logo=gradle&logoColor=white">
+
+COOPERATION TOOL
+<img src="https://img.shields.io/badge/jira-0052CC?style=flat-square&amp;logo=jira&logoColor=white">
 
 🌱 learning
 <br>
