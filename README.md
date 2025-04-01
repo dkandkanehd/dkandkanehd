@@ -22,6 +22,10 @@ DB
 <img src="https://img.shields.io/badge/mariadb-003545?style=flat-square&amp;logo=mariadb&amp;logoColor=white" alt="mariadb Badge">
 <img src="https://img.shields.io/badge/Tibero-1E8CBE?style=flat-square&amp;logo=Tibero&amp;logoColor=white" alt="Tibero Badge">
 
+SERVER
+<br>
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white" alt="aws Badge"> 
+
 🌱 learning
 <br>
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=white" alt="react Badge">
