@@ -47,7 +47,7 @@ PROTOCOL & MESSAGING
 <img src="https://img.shields.io/badge/apachekafka-231F20?style=flat-square&amp;logo=apachekafka&logoColor=white">
 <img src="https://img.shields.io/badge/GRPC-000000?style=flat-square&amp;logo=GRPC&logoColor=white">
 <img src="https://img.shields.io/badge/REST-3F79AD?style=flat-square&amp;logo=RESTFUL&logoColor=white">
-<img src="https://img.shields.io/badge/node-ipc-5FA04E?style=flat-square&amp;logo=node-ipc&amp;logoColor=white" alt="node-ipc Badge">
+<img src="https://img.shields.io/badge/nodeIpc-5FA04E?style=flat-square&amp;logo=node-ipc&amp;logoColor=white" alt="node-ipc Badge">
 
 
 🌱 learning
