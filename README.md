@@ -50,7 +50,7 @@ PROTOCOL & MESSAGING
 <img src="https://img.shields.io/badge/nodeIpc-5FA04E?style=flat-square&amp;logo=node-ipc&amp;logoColor=white" alt="node-ipc Badge">
 
 
-🌱 learning
+🌱 learning!
 <br>
 <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="css Badge">
 <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="nextjs Badge">
