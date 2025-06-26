@@ -17,6 +17,7 @@ FRONTEND
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="html Badge">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=white" alt="js Badge">
 <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&amp;logo=jquery&amp;logoColor=white" alt="jquery Badge">
+<img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="css Badge">
 <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat-square&amp;logo=thymeleaf&amp;logoColor=white" alt="thymeleaf Badge">
 <img src="https://img.shields.io/badge/jsp-4B4B77?style=flat-square&amp;logo=jsp&amp;logoColor=white" alt="Tibero Badge">
 
@@ -52,6 +53,5 @@ PROTOCOL & MESSAGING
 
 🌱 learning!
 <br>
-<img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="css Badge">
 <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="nextjs Badge">
 
