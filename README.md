@@ -7,7 +7,7 @@ BACKEND
 <img src="https://img.shields.io/badge/Jpa-6DB33F?style=flat-square&amp;logo=Jpa&amp;logoColor=white" alt="Jpa Badge">
 <img src="https://img.shields.io/badge/express-000000?style=flat-square&amp;logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/node.js-5FA04E?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="nodejs Badge">
-<img src="https://img.shields.io/badge/QuertDSL-1572B6?style=flat-square&amp;logo=QuertDSL&amp;logoColor=white" alt="QuertDSL Badge">
+<img src="https://img.shields.io/badge/QueryDSL-1572B6?style=flat-square&amp;logo=QueryDSL&amp;logoColor=white" alt="QueryDSL Badge">
 <img src="https://img.shields.io/badge/Mybatis-000000?style=flat-square&amp;logo=Mybatis&amp;logoColor=white" alt="Mybatis Badge">
 
 FRONTEND
